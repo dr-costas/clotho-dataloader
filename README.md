@@ -1,5 +1,16 @@
 # Clotho data loader
 
+----
+## NOTICE: This code is transferred to a new repository 
+
+**Link to new repository:** https://github.com/audio-captioning/clotho-dataloader
+
+The current repository will not be updated any more. Any issues will be taken into account, but the updated code will be pushed at the new repository. 
+
+Sorry for the inconvenience!
+
+----
+
 Welcome to Clotho data loader repository. This repository has the necessary code for
 using the DataLoader class from PyTorch package (`torch.utils.data.dataloader.DataLoader`)
 with the Clotho dataset. 
